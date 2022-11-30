@@ -8,3 +8,7 @@
 
 ## snake_ladder.cpp 
 => Snake and ladder game without graphic part using classes
+
+## contributors
+=> Saket Dhakar
+=> Anjali Rai
